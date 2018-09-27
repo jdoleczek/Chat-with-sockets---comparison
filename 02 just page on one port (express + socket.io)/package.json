@@ -1,0 +1,28 @@
+{
+  "name": "just-page-on-one-port",
+  "version": "1.0.0",
+  "description": "Just page on one port (express + socket.io)",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodejs app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdoleczek/Chat-with-sockets---comparison.git"
+  },
+  "keywords": [
+    "chat",
+    "express",
+    "socket.io"
+  ],
+  "author": "Jan Doleczek <jan@doleczek.pl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdoleczek/Chat-with-sockets---comparison/issues"
+  },
+  "homepage": "https://github.com/jdoleczek/Chat-with-sockets---comparison#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
