@@ -1,0 +1,26 @@
+{
+  "name": "page-and-websockets-on-different-ports",
+  "version": "1.0.0",
+  "description": "Page and websockets on different ports (nodejs-websocket)",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodejs app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdoleczek/Chat-with-sockets---comparison.git"
+  },
+  "keywords": [
+    "chat",
+    "websockets"
+  ],
+  "author": "Jan Doleczek <jan@doleczek.pl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdoleczek/Chat-with-sockets---comparison/issues"
+  },
+  "homepage": "https://github.com/jdoleczek/Chat-with-sockets---comparison#readme",
+  "dependencies": {
+    "nodejs-websocket": "^1.7.1"
+  }
+}

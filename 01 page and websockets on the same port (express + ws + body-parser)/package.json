@@ -1,0 +1,31 @@
+{
+  "name": "page-and-websockets-on-the-same-port",
+  "version": "1.0.0",
+  "description": "Page and websockets on the same port (express + ws + body-parser)",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodejs app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdoleczek/Chat-with-sockets---comparison.git"
+  },
+  "keywords": [
+    "chat",
+    "websockets",
+    "express",
+    "ws",
+    "body-parser"
+  ],
+  "author": "Jan Doleczek <jan@doleczek.pl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdoleczek/Chat-with-sockets---comparison/issues"
+  },
+  "homepage": "https://github.com/jdoleczek/Chat-with-sockets---comparison#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "ws": "^6.0.0"
+  }
+}
